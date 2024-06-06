@@ -7,6 +7,7 @@
 * [Process](https://bit.ly/aiie2024process)
 * [XP Game](https://www.agilebelgium.be/xpgame/)
 * [Images and Filters with Pillow](https://bit.ly/aiie2024pillow)
+* [Introduction to AI](https://bit.ly/aiie2024aiintro)
 
 ## Careers
 
