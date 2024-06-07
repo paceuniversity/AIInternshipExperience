@@ -9,6 +9,8 @@
 * [Images and Filters with Pillow](https://bit.ly/aiie2024pillow)
 * [Introduction to AI](https://bit.ly/aiie2024aiintro)
 
+## Notebooks
+
 ## Careers
 
 * [LinkedIn Learning](https://www.pace.edu/its/teaching-and-learning)
