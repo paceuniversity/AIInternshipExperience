@@ -11,6 +11,8 @@
 
 ## Notebooks
 
+* [Getting Started with Python](https://drive.google.com/file/d/1u6fYRJqZBxh6TulVkcKvyHlf3Fe-ZrlA/view?usp=sharing)
+
 ## Careers
 
 * [LinkedIn Learning](https://www.pace.edu/its/teaching-and-learning)
